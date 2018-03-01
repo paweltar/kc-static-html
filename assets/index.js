@@ -1,1 +1,1 @@
-console.log('lol');
+import './styles/main.css';
