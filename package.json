@@ -1,0 +1,20 @@
+{
+  "name": "kc-static",
+  "version": "1.0.0",
+  "description": "Static version of main theme for Keyboard & Chisel website",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "keywords": [
+    "static",
+    "html5"
+  ],
+  "author": "Paweł Targoński",
+  "license": "ISC",
+  "devDependencies": {
+    "autoprefixer": "^8.0.0",
+    "parcel-bundler": "^1.6.2"
+  }
+}
